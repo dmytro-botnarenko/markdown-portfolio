@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**PDF editing and making**  
+_Image editing and manipulation_  
+**Basic**_front-end_maker (some HTML, CSS, JS and Python) :blush:
