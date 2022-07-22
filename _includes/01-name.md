@@ -1,1 +1,1 @@
-# <h1>dimetrio-ua portfolio github page</h1>
+# <h1>dimetrio-ua</h1>
