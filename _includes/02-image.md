@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![dimetrio-ua user avatar](https://drive.google.com/file/d/1r0brklXMvOmBj9-oAuJ_oQj9sjLrn0Lh/view?usp=sharing)
