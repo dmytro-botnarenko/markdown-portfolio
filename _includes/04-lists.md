@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Football
+* Motor Racing
+* Cycling
+* Reading Books
